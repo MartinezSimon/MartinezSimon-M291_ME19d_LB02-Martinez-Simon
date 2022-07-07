@@ -1,0 +1,49 @@
+body {
+    font-family: 'Verdana', Helvetica, Arial, sans-serif;
+    margin: 10%;
+    background-color: #e8e8e8;
+}
+
+h1 {
+    color: #242424;
+}
+
+h2 {
+    font-weight: normal;
+    color: #e84c47;
+}
+
+#app {
+    font-family: 'Verdana', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #494949;
+}
+
+#logo{
+    horiz-align: left;
+}
+
+.logo {
+    display: inline-block;
+    width: 100%;
+    max-width: 13vw;
+    padding-right: 5vw;
+    margin-left: 5vw;
+    //float: left;
+}
+
+#nav {
+    padding: 30px;
+}
+
+#nav a {
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+
+#nav a.router-link-exact-active {
+    color: #242424;
+}
