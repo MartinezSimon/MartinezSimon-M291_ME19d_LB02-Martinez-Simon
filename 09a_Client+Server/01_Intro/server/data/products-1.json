@@ -1,0 +1,6 @@
+[
+  {"name": "Toddler 0-3", "price": 5.00},
+  {"name": "Kids 4-12", "price": 20.00},
+  {"name": "Teenager 13-17", "price": 40.00},
+  {"name": "Adult 18+", "price": 60.00 }
+]
